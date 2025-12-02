@@ -86,5 +86,6 @@ Pré-requisitos:
 ## 🔗 Links do projeto
 
 - [Documento de ferramentas e configuração de ambiente](docs/Ferramentas%20e%20configura%C3%A7%C3%A3o%20do%20ambiente.pdf)
+- [Preview do projeto](https://fundstation.vercel.app/).
 
 ---

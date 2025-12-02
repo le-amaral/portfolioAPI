@@ -33,8 +33,11 @@ Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem t
 ## 👨‍💻 Colaboradores
 
 Israel Santana
+
 Daniel Realli 
+
 Matheus Gongo
+
 Leonarda Amaral
 
 ---

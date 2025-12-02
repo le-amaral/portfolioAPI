@@ -30,9 +30,12 @@ Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem t
 
 ---
 
-## 👨‍💻 Monitor
+## 👨‍💻 Colaboradores
 
-Israel Fernando Mendes Santana
+Israel Santana
+Daniel Realli 
+Matheus Gongo
+Leonarda Amaral
 
 ---
 
